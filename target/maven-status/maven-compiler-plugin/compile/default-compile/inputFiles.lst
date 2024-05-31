@@ -1,0 +1,10 @@
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/config/TwilioInitializer.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/outils/enums/EmailStatus.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/controller/EmailSenderController.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/config/TwilioConfiguration.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/outils/enums/SmsStatus.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/NotificationServiceApplication.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/service/SmsSenderService.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/controller/SmsSenderController.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/service/EmailSenderService.java
+/Users/ayman/pfe/notification_service_mongodb/src/main/java/com/eainfo/notificationService/service/ThymeleafService.java

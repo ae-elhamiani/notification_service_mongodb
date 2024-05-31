@@ -1,0 +1,17 @@
+server:
+  port: 8083
+spring:
+  mail:
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: 'true'
+          auth: 'true'
+    host: smtp.gmail.com
+    username: 'ay.elhamiani@gmail.com'
+    password: 'rekp xulg larr kzuj'
+    port: '587'
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/notification_service
